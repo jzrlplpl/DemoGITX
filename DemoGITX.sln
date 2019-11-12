@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoGITX", "DemoGITX\DemoGITX.csproj", "{29E5831A-A842-483A-8D4E-032C2E37DCCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29E5831A-A842-483A-8D4E-032C2E37DCCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29E5831A-A842-483A-8D4E-032C2E37DCCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29E5831A-A842-483A-8D4E-032C2E37DCCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29E5831A-A842-483A-8D4E-032C2E37DCCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {817D6755-BBDB-4784-927E-B667CBC9D14F}
+	EndGlobalSection
+EndGlobal
